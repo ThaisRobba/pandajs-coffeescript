@@ -1,5 +1,5 @@
-game.module	'game.main'
-.require	'game.assets',
+game.module 'game.main'
+.require    'game.assets',
             'game.entities.player'
 .body ->
     game.createScene 'Main',
