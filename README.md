@@ -13,4 +13,6 @@ This will continuously rebuild your game files into the game folder as you work 
 
 I like to couple this with [BrowserSync](http://invrse.co/development-with-browsersync/) for live development.
 
+This also works fine with Panda Tool so you can build, compress and update if you have them installed (which you should!).
+
 Have fun and make awesome games!
