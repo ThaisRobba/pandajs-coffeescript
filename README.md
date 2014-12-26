@@ -9,6 +9,8 @@ Clone this repo to your machine and then, from the command line, cd to the root 
 
     coffee -w --output src/game --compile src/coffee
   
-This will continuously rebuild your game files as you work on them. I like to couple it with [BrowserSync](http://invrse.co/development-with-browsersync/)
+This will continuously rebuild your game files into the game folder as you work on them. 
+
+I like to couple this with [BrowserSync](http://invrse.co/development-with-browsersync/) for live development.
 
 Have fun and make awesome games!
