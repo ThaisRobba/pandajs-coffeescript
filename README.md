@@ -3,7 +3,7 @@ pandajs-coffeescript
 
 Get your panda some caffeine! Assuming you have installed coffescript like this:
 
-    npm install -g coffe-script
+    npm install -g coffee-script
   
 Clone this repo to your machine and then, from the command line, cd to the root directory and run:
 
