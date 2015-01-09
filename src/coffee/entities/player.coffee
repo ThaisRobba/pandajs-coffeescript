@@ -7,7 +7,7 @@ game.module 'game.entities.player'
       @sprite.position.set x, y
       @sprite.anchor.set 0.5, 0.5
       
-      #Makes it so this object's update function will be automatically calle by the scene
+      #Scene automatically calls this object update function
       game.scene.addObject this
 
     update: ->
