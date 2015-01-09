@@ -15,7 +15,6 @@ game.module 'game.loader'
       @bar = new game.Graphics()
       @bar.beginFill 0x00ffff
       @bar.drawRect 0, 0, 384, 4
-      
       @bar.position.x = game.system.width / 2 - (384 / 2)
       @bar.position.y = game.system.height / 2 - 2
       @bar.scale.x = @percent / 100
